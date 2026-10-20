@@ -1,0 +1,18 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+dist/
+*.jks
+*.keystore
+*.p12
+keystore.properties
+secrets.properties
+.env
+.env.*
+*.apk
+*.aab
+*.hprof
+# Real application repositories SHOULD commit their generated Gradle Wrapper JAR.
